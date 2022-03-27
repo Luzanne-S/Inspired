@@ -10,5 +10,5 @@ Inspired note pad allows the user to add notes, delete notes and search notes ad
 
 The live site is available at: https://luzanne-s.github.io/Inspired/
 
-###Screenshot
+#Screenshot
 ![](images/inspired.png)
